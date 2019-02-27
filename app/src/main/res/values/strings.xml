@@ -3,6 +3,7 @@
     <string name="drawer_open">Open navigation drawer</string>
     <string name="drawer_close">Close navigation drawer</string>
 
+
     <!-- Nav Drawer Menu Items -->
     <string name="south_park">South Park</string>
     <string name="family_guy">Family Guy</string>
